@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @NickHarrisGit
+- 👀 I’m interested in Python, Robotics, Home Automation, Drones, 3D Printing, Homelabs, and more!
+- 🌱 I’m currently learning Flask, Home Networking, Home Data Acquisition and more!
